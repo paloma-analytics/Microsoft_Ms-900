@@ -46,7 +46,7 @@ Essa é a base para segurança, produtividade e colaboração dentro do Microsof
 
 # 🌐 Sobre esta apresentação
 
-Esta apresentação foi desenvolvida no **Microsoft Sway**, ferramenta oficial da Microsoft para criação de apresentações interativas, relatórios e conteúdos visuais online. O Sway permite compartilhar materiais de forma moderna, responsiva e profissional diretamente pelo navegador. :contentReference[oaicite:0]{index=0}
+Esta apresentação foi desenvolvida no **Microsoft Sway**, ferramenta oficial da Microsoft para criação de apresentações interativas, relatórios e conteúdos visuais online. O Sway permite compartilhar materiais de forma moderna, responsiva e profissional diretamente pelo navegador. 
 
 🔗 **Acesse a apresentação completa:**  
 https://sway.cloud.microsoft/cYNCF5ekBuDC0FJ8
